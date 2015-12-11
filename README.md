@@ -1,6 +1,8 @@
 Advent Of Code Solutions
 ========================
 
+[![Build Status](https://travis-ci.org/zconnelly13/advent_of_code.svg)](https://travis-ci.org/zconnelly13/advent_of_code)
+
 Solutions to the problems found here http://adventofcode.com/
 
 ### Setup
