@@ -24,10 +24,8 @@ pip install -r setup/requirements.txt
 To "solve" a problem run
 
 ```
-python problems/problem_*.py
+python problems/day_*_part*.py
 ```
-
-Where * is the number of the problem
 
 ### Tests
 
