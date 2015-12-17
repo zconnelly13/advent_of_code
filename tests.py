@@ -8,8 +8,9 @@ import sys
 import unittest
 
 SOLUTIONS = {
-    (1, 1): 138,
-    (1, 2): 1771}
+    (1, 1): 280,
+    (1, 2): 1797,
+    (2, 1): 1588178}
 
 
 class TestSolutions(unittest.TestCase):
